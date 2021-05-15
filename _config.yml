@@ -35,7 +35,7 @@ email: doncesarts@gmail.com
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # do you want to display an about section? true or false
 about: true
@@ -62,6 +62,24 @@ project-list:
         name: Decentralized Art Market
         description: Dapp Example of Decentralized ERC721 Tokens Market
         url: https://github.com/doncesarts/react-dapp-erc721-token
+
+# do you want to display a badges section? true or false
+badges: true
+
+# add your badges here
+badge-list:
+    Ethereum-Bootcamp-Udemy:
+        name: Ethereum Blockchain Developer Bootcamp With Solidity (2021)
+        organization: Udemy
+        url: https://udemy-certificate.s3.amazonaws.com/image/UC-bfbb4b81-b372-4e47-9043-a155557f1a1a.jpg
+    IBM-Blockchain-Essentials-V2:
+        name: IBM Blockchain Essentials V2
+        organization: IBM
+        url: https://www.credly.com/badges/d4d2334b-f5e6-4525-9b8a-6d75564f7bdd       
+    IBM-Blockchain-Foundation-Developer-V2:
+        name: IBM Blockchain Foundation Developer V2
+        organization: IBM
+        url: https://www.youracclaim.com/badges/1f065694-b2f0-4c41-aa74-df98cf218612
 
 
 

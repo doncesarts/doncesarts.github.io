@@ -30,3 +30,14 @@
     </nav>
     {% include projects.html %}
 {% endif %}
+
+{% if site.badges %}
+    <nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>Badges</h2>
+            </li>
+        </ul>
+    </nav>
+    {% include badges.html %}
+{% endif %}
