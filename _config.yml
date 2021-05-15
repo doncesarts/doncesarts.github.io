@@ -45,12 +45,12 @@ skills: true
 
 # add your skills here
 skills-list:
-    - Languages: JavaScript, Java, HTML, Solidity
-    - Web : NodeJs, React, Redux, Jest, Enzyme, Web Design Systems.
-    - Web3: Web3.js, Truffle, Ganache, Metamask
-    - Databases: Oracle, MySQL, Mongo DB
-    - Servers: Apache Tomcat, WebLogic, WebSphere Application Server
-    - Frameworks: Struts, JSF, Spring, Spring MVC, Hibernate, JPA
+    - <b>Languages </b> JavaScript, Java, HTML, Solidity
+    - <b>Web </b>  NodeJs, React, Redux, Jest, Enzyme, Web Design Systems.
+    - <b>Web3</b>  Web3.js, Truffle, Ganache, Metamask
+    - <b>Databases</b>  Oracle, MySQL, Mongo DB
+    - <b>Servers</b>  Apache Tomcat, WebLogic, WebSphere Application Server
+    - <b>Frameworks</b>  Struts, JSF, Spring, Spring MVC, Hibernate, JPA
 
 
 # do you want to display a projects section? true or false
