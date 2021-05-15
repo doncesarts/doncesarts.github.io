@@ -1,7 +1,7 @@
 <section class="list">
     {% for badge_hash in site.badge-list %}
     {% assign badge = badge_hash[1] %}
-        <div class="item">
+        <div class="item" style="display: flex;">
                 <a class="url" href="{{ badge.url }}">
                     <h3 class="title">{{ badge.name }}</h3>
                 </a>
