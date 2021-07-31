@@ -60,10 +60,17 @@ projects: true
 # add your projects here
 project-list:
     React-Dapp-ERC721-Token:
-        name: Decentralized Art Market
-        description: Dapp Example of Decentralized ERC721 Tokens Market
+        name: React Dapp - ERC721 Decentralized Art Market
+        description: React Dapp Decentralized ERC721 Tokens Market
         url: https://github.com/doncesarts/react-dapp-erc721-token
-
+    React-Dapp-ERC720-Token:
+        name: React Dapp - ERC20 Token for an ICO
+        description: React Dapp that enables to create an Initial Coin Offering of an ERC20 Token
+        url: https://github.com/doncesarts/react-dapp-erc20-token
+    Nextjs-Dapp-ERC721-Token:
+        name: Nextjs app - ERC721 Decentralized NFT Market 
+        description: NextJs Dapp Polygon Matic Decentralized ERC721 NFT Market
+        url: https://github.com/doncesarts/nextjs-dapp-matic-nft      
 # do you want to display a badges section? true or false
 badges: true
 
