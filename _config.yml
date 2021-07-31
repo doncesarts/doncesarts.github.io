@@ -6,7 +6,7 @@ description: Christopher Chavez's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
-
+ 
 # your url: http://USERNAME.github.io
 url: https://doncesarts.github.io
 
@@ -46,9 +46,9 @@ skills: true
 
 # add your skills here
 skills-list:
-    - <b>Languages </b> JavaScript, Java, HTML, Solidity
-    - <b>Web </b>  NodeJs, React, Redux, Jest, Enzyme, Web Design Systems.
-    - <b>Web3</b>  Web3.js, Truffle, Ganache, Metamask
+    - <b>Languages </b> JavaScript, Java, Solidity, HTML, Typescript
+    - <b>Web </b>  NodeJs, React, Redux, Jest, Enzyme, Web Design Systems, GraphQL.
+    - <b>Web3</b>  Web3.js, Ethers Truffle, Hardhat, Ganache, Metamask
     - <b>Databases</b>  Oracle, MySQL, Mongo DB
     - <b>Servers</b>  Apache Tomcat, WebLogic, WebSphere Application Server
     - <b>Frameworks</b>  Struts, JSF, Spring, Spring MVC, Hibernate, JPA
@@ -61,16 +61,19 @@ projects: true
 project-list:
     React-Dapp-ERC721-Token:
         name: React Dapp - ERC721 Decentralized Art Market
-        description: React Dapp Decentralized ERC721 Tokens Market
+        description: React Dapp Decentralized ERC721 Tokens Market Place
         url: https://github.com/doncesarts/react-dapp-erc721-token
+        tags: React, Truffle, Web3.js, Solidity
     React-Dapp-ERC720-Token:
         name: React Dapp - ERC20 Token for an ICO
         description: React Dapp that enables to create an Initial Coin Offering of an ERC20 Token
         url: https://github.com/doncesarts/react-dapp-erc20-token
+        tags: React, Truffle, Web3.js, Solidity
     Nextjs-Dapp-ERC721-Token:
-        name: Nextjs app - ERC721 Decentralized NFT Market 
-        description: NextJs Dapp Polygon Matic Decentralized ERC721 NFT Market
-        url: https://github.com/doncesarts/nextjs-dapp-matic-nft      
+        name: Nextjs Dapp - ERC721 Decentralized NFT Market 
+        description: NFT Market  Market pkace - NextJs Dapp that allows the exchange of ERC721 tokens Polygon Matic
+        url: https://github.com/doncesarts/nextjs-dapp-matic-nft  
+        tags: Nextjs, Hardhat, Ethers.js, Solidity, Polygon    
 # do you want to display a badges section? true or false
 badges: true
 
