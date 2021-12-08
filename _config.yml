@@ -1,13 +1,12 @@
 # Your name and what you do
-name: Christopher Chavez
-bio: Software Engineer
+name: Cesar Chavez
+bio: Smart Contract Developer | <a:href="https://mstable.org/"> mStable</a>
 
-description: Christopher Chavez's Personal Website
+description: Cesar Chavez's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
  
-# your url: http://USERNAME.github.io
 url: https://doncesarts.github.io
 
 # do you want to display social media links? true or false
@@ -51,7 +50,7 @@ skills-list:
     - <b>Web3</b>  Web3.js, Ethers Truffle, Hardhat, Ganache, Metamask
     - <b>Databases</b>  Oracle, MySQL, Mongo DB
     - <b>Servers</b>  Apache Tomcat, WebLogic, WebSphere Application Server
-    - <b>Frameworks</b>  Struts, JSF, Spring, Spring MVC, Hibernate, JPA
+    # - <b>Frameworks</b>  Struts, JSF, Spring, Spring MVC, Hibernate, JPA
 
 
 # do you want to display a projects section? true or false

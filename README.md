@@ -28,7 +28,7 @@ Learn more about Github pages <a href="https://pages.github.com/">here</a>
 - Install <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="https://bundler.io/">Bundler</a>, <a href="https://jekyllrb.com/">Jekyll</a>, and <a href="https://nodejs.org/en/">NodeJS</a> `NodeJS`.
 - Run `bundle install` from repo's root
 - Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` to start the local server
-- Vist website in your browser at `http://localhost:4000`
+- Visit website in your browser at `http://localhost:4000`
 - Run link, image and script checks on the website with `bundle exec htmlproofer ./_site --only-4xx`
 
 ## Credits
