@@ -1,11 +1,11 @@
 # Your name and what you do
-name: Cesar Chavez
-bio: Smart Contract Developer | mStable
+name: doncesarts
+bio: Smart Contract Developer
 
-description: Cesar Chavez's Personal Website
+description: doncesarts Personal Website
 
 # Profile picture
-picture: assets/images/profile_.jpg
+picture: assets/images/profile.jpg
  
 url: https://doncesarts.github.io
 
@@ -15,10 +15,10 @@ social-media: true
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
 #twitter: doncesarts
-linkedin: christopher-césar-chávez-lópez-27566b12
+#linkedin: christopher-césar-chávez-lópez-27566b12
 github: doncesarts
-email: doncesarts@gmail.com
-cv: assets/cv-dapp._pdf
+#email: doncesarts@gmail.com
+#cv: assets/cv-dapp._pdf
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -38,10 +38,10 @@ cv: assets/cv-dapp._pdf
 width: large
 
 # do you want to display an about section? true or false
-about: true
+about: false
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
@@ -54,7 +54,7 @@ skills-list:
 
 
 # do you want to display a projects section? true or false
-projects: true
+projects: false
 
 # add your projects here
 project-list:
@@ -74,7 +74,7 @@ project-list:
         url: https://github.com/doncesarts/nextjs-dapp-matic-nft  
         tags: Nextjs, Hardhat, Ethers.js, Solidity, Polygon    
 # do you want to display a badges section? true or false
-badges: true
+badges: false
 
 # add your badges here
 badge-list:
