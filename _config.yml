@@ -38,19 +38,20 @@ github: doncesarts
 width: large
 
 # do you want to display an about section? true or false
-about: false
+about: true
 
 # do you want to display a skills section? true or false
 skills: true
 
 # add your skills here
 skills-list:
+    - <b>Automation </b> OpenZepelling Defender, Gelato Network, Chainlink Keepers
+    - <b>Smart contract development  </b> Solidity
     - <b>Languages </b> JavaScript, Java, Solidity, HTML, Typescript
     - <b>Web </b>  NodeJs, React, Redux, Jest, Enzyme, Web Design Systems, GraphQL.
     - <b>Web3</b>  Web3.js, Ethers Truffle, Hardhat, Ganache, Metamask
     - <b>Databases</b>  Oracle, MySQL, Mongo DB
     - <b>Servers</b>  Apache Tomcat, WebLogic, WebSphere Application Server
-    # - <b>Frameworks</b>  Struts, JSF, Spring, Spring MVC, Hibernate, JPA
 
 
 # do you want to display a projects section? true or false
