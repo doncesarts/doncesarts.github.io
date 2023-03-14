@@ -15,7 +15,7 @@ social-media: true
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
 #twitter: doncesarts
-#linkedin: christopher-césar-chávez-lópez-27566b12
+linkedin: christopher-césar-chávez-lópez-27566b12
 github: doncesarts
 #email: doncesarts@gmail.com
 #cv: assets/cv-dapp._pdf
@@ -41,7 +41,7 @@ width: large
 about: false
 
 # do you want to display a skills section? true or false
-skills: false
+skills: true
 
 # add your skills here
 skills-list:
@@ -54,10 +54,15 @@ skills-list:
 
 
 # do you want to display a projects section? true or false
-projects: false
+projects: true
 
 # add your projects here
 project-list:
+    mStable:
+        name: mStable - Core Contributor
+        description: mStable unites stablecoins, lending and swapping into one standard.
+        url: https://github.com/mstable/mStable-contracts
+        tags: Hardhat, Ethers, Solidity
     React-Dapp-ERC721-Token:
         name: React Dapp - ERC721 Decentralized Art Market
         description: React Dapp Decentralized ERC721 Tokens Market Place
